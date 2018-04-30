@@ -1,0 +1,11 @@
+F:\Users\Alex\Documents\C# Progik\Buborék\Buborék\bin\Debug\Buborék.exe
+F:\Users\Alex\Documents\C# Progik\Buborék\Buborék\bin\Debug\Buborék.pdb
+F:\Users\Alex\Documents\C# Progik\Buborék\Buborék\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\Alex\Documents\C# Progik\Buborék\Buborék\obj\Debug\Buborék.exe
+F:\Users\Alex\Documents\C# Progik\Buborék\Buborék\obj\Debug\Buborék.pdb
+D:\Mentes\Alex_old\C# Progik\Buborék\Buborék\bin\Debug\Buborék.exe
+D:\Mentes\Alex_old\C# Progik\Buborék\Buborék\bin\Debug\Buborék.pdb
+D:\Mentes\Alex_old\C# Progik\Buborék\Buborék\obj\Debug\Buborék.csprojResolveAssemblyReference.cache
+D:\Mentes\Alex_old\C# Progik\Buborék\Buborék\obj\Debug\Buborék.csproj.CoreCompileInputs.cache
+D:\Mentes\Alex_old\C# Progik\Buborék\Buborék\obj\Debug\Buborék.exe
+D:\Mentes\Alex_old\C# Progik\Buborék\Buborék\obj\Debug\Buborék.pdb
